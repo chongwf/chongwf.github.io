@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: about 
 permalink: /about/
 ---
 
-Some information about you!
+人工智能爱好者，道家思想追随者
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+陕西农民，漂泊于北京。本学数学，研修心理，现为码农。
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[chongwf1985@gmail.com](mailto:chongwf1985@gmail.com)
